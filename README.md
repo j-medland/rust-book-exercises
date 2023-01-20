@@ -1,10 +1,11 @@
 # Rust Book Exercises
 My attempt at exercises in https://rust-book.cs.brown.edu/experiment-intro.html.
 
-I am trying to work through the exercises in turn so not attempting to bring in material not covered (or sign posted to).
+I am trying to work through the exercises in turn by only using material covered or signposted to as I go.
+
 
 # Useful Resources
 
-## Other Folks' Solutions
+## Solutions from Other Folks
 https://github.com/jasonkuhrt-archive/rust-book-exercises
 
