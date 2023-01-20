@@ -5,6 +5,6 @@ I am trying to work through the exercises in turn so not attempting to bring in 
 
 # Useful Resources
 
-## Other Folks Solutions
+## Other Folks' Solutions
 https://github.com/jasonkuhrt-archive/rust-book-exercises
 
