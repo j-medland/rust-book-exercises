@@ -6,6 +6,7 @@ I am trying to work through the exercises in turn by only using material covered
 
 # Useful Resources
 
+https://google.github.io/comprehensive-rust/welcome.html
+
 ## Solutions from Other Folks
 https://github.com/jasonkuhrt-archive/rust-book-exercises
-
